@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-typescript",
+  "name": "@kansin88/cra-template-typescript",
   "main": "template.json",
   "version": "0.0.2",
   "private": false,
